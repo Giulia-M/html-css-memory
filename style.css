@@ -21,12 +21,15 @@ body> *{
 h1 {
     font-size: 70px;
     font-family: 'Prompt', sans-serif;
+
 }
 
 
 footer {
     text-align: center;
     font-weight: bolder;
+    margin:20px auto;
+
 }
 
 .row {
