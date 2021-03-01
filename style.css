@@ -92,11 +92,18 @@ div.img-card img {
 }
 .card-text h3 {
  
-    color: red;
     width: 100%;
     text-align: center;
-    position: absolute;
-    bottom: 0;
-}
+    font-size: 30px;
+    font-family: 'Prompt', sans-serif;
 
+
+}
+#viola {
+    color: rgb(230, 25, 134);
+
+}
+#orange {
+    color: rgb(230, 121, 25);
+}
 
