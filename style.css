@@ -92,7 +92,7 @@ div.img-card img {
     background-color: white;
     height: 15%; 
     width: 100%;
-    bottom: 0;
+    bottom: 20px;
     display: none;
 
 }
