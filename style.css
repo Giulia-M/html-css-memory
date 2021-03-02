@@ -71,7 +71,10 @@ footer {
     border-radius: 15px;
 
 }
-
+.card:hover .img-card {
+    background-image: none;
+    background-color: white;
+}
 
 div.img-card img {
     object-fit: contain;
